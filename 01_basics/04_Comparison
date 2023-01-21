@@ -1,0 +1,21 @@
+/*console. log(2 > 1);//greater than
+console. log(2 >= 1);// greater than equal
+console. log(2 < 1); //lass than
+console. log(2 == 1);// equal equal
+console. log(2 !=1);//not equal*/
+
+/*console.log("2" > 1);
+console.log("02" > 1);*/
+
+
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
+
+console.log(undefined == 0);
+console.log(undefined > 0);
+console.log()(undefined < 0);
+
+//strickchick (===)
+
+console.log("2" == 2);
